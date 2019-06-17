@@ -1,5 +1,3 @@
-addpath('Mex');
-%mesh=K3d4a
 points1=k4a3d('C:\\MATLAB\\K4A\\OFFICE_SAMPLE_NFOV_UNBINNED.mkv');
 figure;
 pcshow(pointCloud(points1'));

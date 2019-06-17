@@ -1,7 +1,7 @@
 C++ pointcloud wrapper for the Microsoft Kinect 4 Azure, using Microsoft Azure Kinect SDK 1.1.0.
 
 Requirements:
-- Azure Kinect SDK 1.1.0. http://download.microsoft.com/download/E/B/D/EBDBB3C1-ED3F-4236-96D6-2BCB352F3710/Azure%20Kinect%20SDK%201.1.0.msi
+- ([Azure Kinect SDK 1.1.0.](http://download.microsoft.com/download/E/B/D/EBDBB3C1-ED3F-4236-96D6-2BCB352F3710/Azure%20Kinect%20SDK%201.1.0.msi))
 - Visual Studio 2012 or newer compiler
 - MATLAB 2013a or newer (for Visual Studio 2012 support)
 - MATLAB 2015b or newer for demo, which uses MATLAB's built-in pointCloud object
